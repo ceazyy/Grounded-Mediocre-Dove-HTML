@@ -15,6 +15,9 @@
   flex-direction: column;
   background-color: var(--dl-color-gray-white);
 }
+.register-navbar-interactive {
+  background-color: #eaeaea;
+}
 .register-logo {
   text-decoration: none;
 }
@@ -193,11 +196,13 @@
   top: 430px;
   left: 48px;
   position: absolute;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
 }
 .register-textinput2 {
   top: 220px;
   left: 48px;
   position: absolute;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
 }
 .register-textinput3 {
   top: 290px;
@@ -209,6 +214,7 @@
   top: 150px;
   left: 48px;
   position: absolute;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
 }
 .register-button {
   top: 500px;
@@ -228,6 +234,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.register-footer1 {
+  background-color: #eaeaea;
 }
 .register-container2 {
   gap: var(--dl-space-space-unit);
