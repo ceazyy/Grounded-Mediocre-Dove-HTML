@@ -18,6 +18,9 @@
 .to-do-navbar-interactive {
   background-color: #eaeaea;
 }
+.to-do-logo {
+  text-decoration: none;
+}
 .to-do-desktop-menu {
   flex: 1;
   display: flex;
@@ -208,7 +211,7 @@
   position: absolute;
   margin-left: 75px;
 }
-.to-do-text06 {
+.to-do-text3 {
   top: 0px;
   left: 625px;
   position: absolute;
@@ -291,7 +294,7 @@
   .to-do-textarea1 {
     width: 1040px;
   }
-  .to-do-text06 {
+  .to-do-text3 {
     left: 450px;
     right: 0px;
     margin: auto;
@@ -323,7 +326,7 @@
     margin-top: 0px;
     margin-left: 75px;
   }
-  .to-do-text06 {
+  .to-do-text3 {
     top: 0px;
     left: 300px;
     right: 0px;
@@ -375,7 +378,7 @@
     width: 622px;
     height: 101px;
   }
-  .to-do-text06 {
+  .to-do-text3 {
     left: 200px;
     margin: auto;
   }
@@ -394,7 +397,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .to-do-text09 {
+  .to-do-text6 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
@@ -449,7 +452,7 @@
     bottom: 0px;
     margin: auto;
   }
-  .to-do-text06 {
+  .to-do-text3 {
     top: 0px;
     left: 80px;
     right: 0px;
@@ -469,7 +472,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .to-do-text09 {
+  .to-do-text6 {
     text-align: center;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
